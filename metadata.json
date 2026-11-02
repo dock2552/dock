@@ -1,0 +1,6 @@
+{
+  "name": "Алгоритм Торгівлі Dementor CME — Повний Мануал & Термінал",
+  "description": "Повний структурований алгоритм та логіка торгівлі трейдера Dementor (@Dem6ntor): кластерний аналіз, Footprint, об'ємний профіль (POC/VAH/VAL), дельта, зняття ліквідності, ф'ючерси CME, правила ризик-менеджменту та експорт у Word і TXT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
